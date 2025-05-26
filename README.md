@@ -1,24 +1,26 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Electronics and comunication
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Digital Communication Lab
+<b> Experiment|     <b> 1) To study Eye diagram patterns of various digital pulses
+                        
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
-
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+An Eye Diagram is a powerful tool used in digital communication systems to visualize and assess the quality of a signal. It is formed by overlapping multiple cycles of a digital signal on an oscilloscope to create a composite image that looks like an eye 
+<b>Name of Developer | <b> Mr. Rajeev Kumar
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b> Rajkiya Engineering college kannauj  
+<b> Email id|     <b>  rajeev@reck.ac.in
+<b> Department |  Mr. Rajeev Kumar - Department of Electronics Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |Badre Alam . | student  | Electronics Engineering | Rajkiya Engineering College Kannauj | badre2753@gmail.com
+2 | Aman Kumar. | Student  | Electrical Engineering |  Rajkiya Engineering College Kannauj | aman548555@gmail.com
+3 |Gaurav Baghel|student   | Electronics Engineering |  Rajkiya Engineering College Kannauj |Gauravbaghel2k24@gmail.com
+4|FAizan Ahamad| Student   |Computer Science Engineering|  Rajkiya Engineering College Kannauj|ahamadfaizan525@gmail.com
