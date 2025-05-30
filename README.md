@@ -4,7 +4,7 @@
 <b>Discipline | <b>Electronics and comunication
 :--|:--|
 <b> Lab | <b> Digital Communication Lab
-<b> Experiment|     <b> 1) To study Eye diagram patterns of various digital pulses
+<b> Experiment|     <b> 1: To study Eye diagram patterns of various digital pulses
                         
 
 ### About the Experiment 
