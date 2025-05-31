@@ -1,5 +1,10 @@
 //Your JavaScript goes in here
+<<<<<<< HEAD
    // State management
+=======
+
+        // State management
+>>>>>>> 2bcd0434b0c75c1e04f117a2adbea72558d9cfda
         const state = {
             isRunning: false,
             pulseType: 'NRZ',
@@ -311,9 +316,15 @@
             const plotWidth = width - margin.left - margin.right;
             const plotHeight = height - margin.top - margin.bottom;
             
+<<<<<<< HEAD
             const minValue = state.waveformData.length > 0 ? Math.min(...state.waveformData) : -1;
             const maxValue = state.waveformData.length > 0 ? Math.max(...state.waveformData) : 1;
             const valueRange = maxValue - minValue || 1;
+=======
+            const minValue = state.waveformData.length > 0 ? Math.min(...state.waveformData) : -state.amplitude;
+            const maxValue = state.waveformData.length > 0 ? Math.max(...state.waveformData) : state.amplitude;
+            const valueRange = maxValue - minValue || 2 * state.amplitude;
+>>>>>>> 2bcd0434b0c75c1e04f117a2adbea72558d9cfda
             
             // Draw grid
             ctx.strokeStyle = '#e5e7eb';
@@ -441,9 +452,15 @@
             const plotHeight = height - margin.top - margin.bottom;
             
             const allValues = state.eyeData.flat();
+<<<<<<< HEAD
             const minValue = allValues.length > 0 ? Math.min(...allValues) : -1;
             const maxValue = allValues.length > 0 ? Math.max(...allValues) : 1;
             const valueRange = maxValue - minValue || 1;
+=======
+            const minValue = allValues.length > 0 ? Math.min(...allValues) : -state.amplitude;
+            const maxValue = allValues.length > 0 ? Math.max(...allValues) : state.amplitude;
+            const valueRange = maxValue - minValue || 2 * state.amplitude;
+>>>>>>> 2bcd0434b0c75c1e04f117a2adbea72558d9cfda
             
             // Draw grid
             ctx.strokeStyle = '#e5e7eb';
@@ -548,4 +565,8 @@
             a.download = `eye_diagram_${state.pulseType}_${state.bitRate}bps.csv`;
             a.click();
             URL.revokeObjectURL(url);
+<<<<<<< HEAD
         }
+=======
+        }
+>>>>>>> 2bcd0434b0c75c1e04f117a2adbea72558d9cfda
