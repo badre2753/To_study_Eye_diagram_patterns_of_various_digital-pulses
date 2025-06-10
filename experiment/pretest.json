@@ -6,8 +6,7 @@
       "answers": {
         "a": "Vertical displacement due to noise",
         "b": "Timing variations in signal edges ",
-        "c": "Amplitude drop"
-",
+        "c": "Amplitude drop",
         "d": "Frequency offset"
       },
       "explanations": {
