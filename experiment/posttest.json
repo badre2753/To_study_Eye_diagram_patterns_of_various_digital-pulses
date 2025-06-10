@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which line coding shows the most transitions?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "NRZ",
+        "b": " RZ",
+        "c": "Manchester",
+        "d": "Unipolar NRZ"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What does ISI (Intersymbol Interference) affect in an Eye Diagram?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Bandwidth",
+        "b": "Eye height",
+        "c": "Eye width ",
+        "d": " Bit period"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
