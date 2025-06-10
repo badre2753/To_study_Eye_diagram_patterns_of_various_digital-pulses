@@ -1,6 +1,6 @@
-[### Link your references in here](https://www.ni.com/en-us/innovations/white-papers/06/understanding-eye-diagrams.html
+https://www.ni.com/en-us/innovations/white-papers/06/understanding-eye-diagrams.html
 
-)
+
 
 https://www.electronics-tutorials.ws
 
