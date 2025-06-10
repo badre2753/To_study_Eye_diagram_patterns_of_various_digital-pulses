@@ -2,12 +2,13 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What does jitter refer to in an Eye Diagram?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Vertical displacement due to noise",
+        "b": "Timing variations in signal edges ",
+        "c": "Amplitude drop"
+",
+        "d": "Frequency offset"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +16,18 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What kind of signal does an Eye Diagram visualize",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Analog audio",
+        "b": "Continuous wave",
+        "c": "Digital pulse waveform ",
+        "d": "Electromagnetic spectrum"
+
+
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
