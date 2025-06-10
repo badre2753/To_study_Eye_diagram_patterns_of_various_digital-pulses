@@ -13,3 +13,7 @@ Capture and freeze the Eye Diagram.
 
 Analyze parameters like eye opening, jitter, and noise margin.
 
+
+Result:
+Eye diagram patterns for various digital pulses were successfully obtained and analyzed. The differences in eye opening and jitter show the impact of encoding schemes on signal integrity.
+
