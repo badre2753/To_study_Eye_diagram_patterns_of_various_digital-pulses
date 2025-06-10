@@ -1,0 +1,47 @@
+{
+
+   "details": [
+       {
+			"Experiment": "To study Eye diagram patterns of various digital pulses",     
+			"Lab": "DIGITAL COMMUNICATION LAB",               
+			"Discipline": "Electronics Engineering",				 
+			"Technology": "HTML CSS Javascript"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Mr. Rajeev Baghel",         
+      "Institute": "REC Kannauj",         
+      "InstituteAcronym": "RECK"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Badre Alam",             
+      "Institute": "REC Kannauj",               
+			"InstituteAcronym": "RECK"         
+       },
+
+       {       
+			"Contributer": "Faizan Ahamad",              
+      "Institute": "REC Kannauj",               
+			"InstituteAcronym": "RECK"         
+       },
+
+       {       
+			"Contributer": "Aman kumar",             
+      "Institute": "REC Kannauj",               
+			"InstituteAcronym": "RECK"         
+       },
+
+       {       
+			"Contributer": "Abhinav Singh",              
+      "Institute": "REC Kannauj",               
+			"InstituteAcronym": "RECK"         
+       }
+       
+   ]
+
+}
