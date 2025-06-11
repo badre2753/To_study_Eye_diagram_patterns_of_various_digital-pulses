@@ -35,5 +35,56 @@
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+     {
+      "question": "What does jitter refer to in an Eye Diagram?",
+      "answers": {
+        "a": " Vertical displacement due to noise",
+        "b": " Timing variations in signal edges ",
+        "c": "Amplitude drop",
+        "d": " Frequency offset"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which of the following improves the clarity of an Eye Diagram?",
+      "answers": {
+        "a": "More noise",
+        "b": " High jitter",
+        "c": "Good synchronization ",
+        "d": "Poor bandwidth"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": " What does a closed eye pattern in an Eye Diagram usually indicate?",
+      "answers": {
+        "a": "Clear signal",
+        "b": " High signal-to-noise ratio",
+        "c": "Presence of interference and timing errors ",
+        "d": "High-speed transmission only"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
   ]
 }
