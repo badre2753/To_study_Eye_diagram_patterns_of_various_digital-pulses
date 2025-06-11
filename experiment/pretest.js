@@ -110,6 +110,27 @@
       },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },     
+    {
+     question: "3.In an ideal Eye Diagram, what does a wider eye opening indicate?",  ///// Write the question inside double quotes
+      answers: {
+        a: "Higher noise",                  ///// Write the option 1 inside double quotes
+        b: "Lower bandwidth",                  ///// Write the option 2 inside double quotes
+        c: "More jitter",                  ///// Write the option 3 inside double quotes
+        d: "Better signal clarity"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },
+    {
+     question: "4.What is the main use of an Eye Diagram in digital communication?",  ///// Write the question inside double quotes
+      answers: {
+        a: "Noise generation",                  ///// Write the option 1 inside double quotes
+        b: " pectrum analysis",                  ///// Write the option 2 inside double quotes
+        c: "Evaluating signal integrity",                  ///// Write the option 3 inside double quotes
+        d: "Encoding compression"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },
+    
                              ///// To add more questions, copy the section below 
     									                  ///// this line
 

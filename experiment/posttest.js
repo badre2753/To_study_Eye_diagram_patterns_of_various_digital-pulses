@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "Which line coding shows the most transitions?",  ///// Write the question inside double quotes
+      question: "1.Which line coding shows the most transitions?",  ///// Write the question inside double quotes
       answers: {
         a: " NRZ",                  ///// Write the option 1 inside double quotes
         b: "RZ",                  ///// Write the option 2 inside double quotes
@@ -101,7 +101,7 @@
     },
 
     {
-      question: "What does ISI (Intersymbol Interference) affect in an Eye Diagram? ",  ///// Write the question inside double quotes
+      question: "2.What does ISI (Intersymbol Interference) affect in an Eye Diagram? ",  ///// Write the question inside double quotes
       answers: {
         a: "Bandwidth",                  ///// Write the option 1 inside double quotes
         b: "Eye height",                  ///// Write the option 2 inside double quotes
@@ -109,7 +109,37 @@
         d: "Bit period"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
+    },  
+    {
+      question: "3.What does jitter refer to in an Eye Diagram?",  ///// Write the question inside double quotes
+      answers: {
+        a: "Vertical displacement due to noise ",                  ///// Write the option 1 inside double quotes
+        b: "Timing variations in signal edges",                  ///// Write the option 2 inside double quotes
+        c: "Amplitude drop",                  ///// Write the option 3 inside double quotes
+        d: "Frequency offset"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
+    {
+      question: "4.Which of the following improves the clarity of an Eye Diagram?",  ///// Write the question inside double quotes
+      answers: {
+        a: "More noise ",                  ///// Write the option 1 inside double quotes
+        b: "High jitter",                  ///// Write the option 2 inside double quotes
+        c: "Good synchronization",                  ///// Write the option 3 inside double quotes
+        d: "Poor bandwidth"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },
+    {
+      question: "5. What does a closed eye pattern in an Eye Diagram usually indicate?",  ///// Write the question inside double quotes
+      answers: {
+        a: " Clear signal",                  ///// Write the option 1 inside double quotes
+        b: "High signal-to-noise ratio",                  ///// Write the option 2 inside double quotes
+        c: "Presence of interference and timing errors ",                  ///// Write the option 3 inside double quotes
+        d: "High-speed transmission only"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },                                ///// To add more questions, copy the section below 
     									                  ///// this line
 
 
