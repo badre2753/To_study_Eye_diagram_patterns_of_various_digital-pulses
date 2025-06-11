@@ -36,6 +36,46 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "In an ideal Eye Diagram, what does a wider eye opening indicate?",
+      "answers": {
+        "a": "Higher noise",
+        "b": "Lower bandwidth",
+        "c": "More jitter",
+        "d": "Better signal clarity"
+
+
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main use of an Eye Diagram in digital communication?",
+      "answers": {
+        "a": "Noise generation",
+        "b": "pectrum analysis",
+        "c": "Evaluating signal integrity  ",
+        "d": "Encoding compression",
+
+
+
+
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
